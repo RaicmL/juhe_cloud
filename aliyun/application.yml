@@ -21,9 +21,9 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: 10.28.45.212
-    username: juhe
-    password: juhe123678
+    host: 118.31.15.194
+    username: guest
+    password: guest
 
   sleuth:
     sampler:
