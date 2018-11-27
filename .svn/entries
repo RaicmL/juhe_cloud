@@ -1,44 +1,0 @@
-10
-
-dir
-5905
-svn://121.40.71.49/repos/juhe-cloud/config/src/main/resources/config
-svn://121.40.71.49/repos
-
-
-
-2018-02-06T08:44:44.327127Z
-5860
-jsdata
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-eb36ee73-1b82-44eb-bc46-13cf0e9c36b1
-
-
-
-
-
-
-0
-
-aliyun
-dir
-
-jr
-dir
-
-local
-dir
-
