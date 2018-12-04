@@ -53,3 +53,6 @@ zuul:
     finbridge-base-service:
       path: /finbridge-base/**
       sensitiveHeaders:
+    canaan-account-service:
+      path: /canaan-account/**
+      sensitiveHeaders:
